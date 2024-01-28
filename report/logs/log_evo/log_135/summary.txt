@@ -1,0 +1,227 @@
+Log 135
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 62414.0
+norm_2: 63.6582145690918
+generations: 155
+run_time: 464.133
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 64858.0
+norm_2: 65.52787017822266
+generations: 159
+run_time: 477.319
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 63353.0
+norm_2: 64.1416015625
+generations: 158
+run_time: 473.061
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 67618.0
+norm_2: 69.48041534423828
+generations: 177
+run_time: 530.162
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 63091.0
+norm_2: 64.17997741699219
+generations: 163
+run_time: 487.585
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 405449.0
+norm_2: 179.79537963867188
+generations: 258
+run_time: 763.294
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 375550.0
+norm_2: 175.23553466796875
+generations: 268
+run_time: 789.219
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 418185.0
+norm_2: 185.74551391601562
+generations: 263
+run_time: 779.47
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 382114.0
+norm_2: 173.53419494628906
+generations: 252
+run_time: 748.274
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 376392.0
+norm_2: 173.64109802246094
+generations: 254
+run_time: 750.503
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 118938.0
+norm_2: 93.06250762939453
+generations: 199
+run_time: 572.842
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 135162.0
+norm_2: 99.5631332397461
+generations: 200
+run_time: 575.413
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 125935.0
+norm_2: 96.60504913330078
+generations: 202
+run_time: 582.909
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 127196.0
+norm_2: 94.84695434570312
+generations: 187
+run_time: 539.25
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 115191.0
+norm_2: 89.76703643798828
+generations: 185
+run_time: 532.527
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 309104.0
+norm_2: 147.2364044189453
+generations: 168
+run_time: 500.63
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 329236.0
+norm_2: 155.30430603027344
+generations: 180
+run_time: 535.382
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 291189.0
+norm_2: 139.55859375
+generations: 158
+run_time: 470.892
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 313309.0
+norm_2: 149.98666381835938
+generations: 175
+run_time: 520.614
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 344357.0
+norm_2: 162.7506103515625
+generations: 189
+run_time: 561.187
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 85.0
+norm_2: 1.9209110736846924
+generations: 17
+run_time: 57.265
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 24.0
+norm_2: 1.0151870250701904
+generations: 8
+run_time: 30.673
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 62.0
+norm_2: 1.7672981023788452
+generations: 11
+run_time: 39.749
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 88.0
+norm_2: 1.894004225730896
+generations: 16
+run_time: 54.187
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 14.0
+norm_2: 0.8340586423873901
+generations: 3
+run_time: 16.219
+fitness: 0.0
+

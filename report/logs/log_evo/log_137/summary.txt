@@ -1,0 +1,227 @@
+Log 137
+
+Attack: evo on FasterRCNN
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 17313.0
+norm_2: 31.665740966796875
+generations: 128
+run_time: 404.353
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 16343.0
+norm_2: 30.209623336791992
+generations: 123
+run_time: 388.222
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 20247.0
+norm_2: 34.92145538330078
+generations: 139
+run_time: 438.268
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 17828.0
+norm_2: 32.06902313232422
+generations: 130
+run_time: 410.304
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 16972.0
+norm_2: 31.381139755249023
+generations: 130
+run_time: 411.681
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 69253.0
+norm_2: 76.52604675292969
+generations: 249
+run_time: 781.97
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 69844.0
+norm_2: 76.63147735595703
+generations: 244
+run_time: 760.465
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 64657.0
+norm_2: 69.8966293334961
+generations: 225
+run_time: 706.524
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 68507.0
+norm_2: 74.7491226196289
+generations: 220
+run_time: 691.645
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 69988.0
+norm_2: 77.3480224609375
+generations: 261
+run_time: 821.709
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 17258.0
+norm_2: 26.640018463134766
+generations: 100
+run_time: 319.064
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 18405.0
+norm_2: 27.871652603149414
+generations: 114
+run_time: 362.337
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 19285.0
+norm_2: 28.08936882019043
+generations: 106
+run_time: 337.85
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 15235.0
+norm_2: 24.86665153503418
+generations: 110
+run_time: 350.273
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 13468.0
+norm_2: 23.565793991088867
+generations: 109
+run_time: 348.103
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 77631.0
+norm_2: 71.20696258544922
+generations: 156
+run_time: 495.454
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 77865.0
+norm_2: 70.9786605834961
+generations: 149
+run_time: 474.059
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 77823.0
+norm_2: 70.61026000976562
+generations: 149
+run_time: 473.711
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 74929.0
+norm_2: 68.77923583984375
+generations: 148
+run_time: 470.578
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 62863.0
+norm_2: 59.891788482666016
+generations: 130
+run_time: 415.022
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 93271.0
+norm_2: 73.12422180175781
+generations: 130
+run_time: 414.774
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 122552.0
+norm_2: 88.6655044555664
+generations: 145
+run_time: 461.154
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 115827.0
+norm_2: 85.00389099121094
+generations: 142
+run_time: 451.663
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 73564.0
+norm_2: 63.07890701293945
+generations: 114
+run_time: 365.039
+fitness: 0.0
+
+Attack: evo on FasterRCNN
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 85199.0
+norm_2: 69.16403198242188
+generations: 123
+run_time: 393.631
+fitness: 0.0
+

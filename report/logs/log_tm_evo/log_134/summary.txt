@@ -1,0 +1,227 @@
+Log 134
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 27330.0
+norm_2: 57.02753829956055
+generations: 145
+run_time: 469.533
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 28774.0
+norm_2: 58.015350341796875
+generations: 145
+run_time: 468.107
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 27589.0
+norm_2: 57.187957763671875
+generations: 142
+run_time: 462.592
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 26023.0
+norm_2: 55.932861328125
+generations: 142
+run_time: 453.236
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000490030.jpg
+-SUCCESS-
+norm_0: 25547.0
+norm_2: 55.286800384521484
+generations: 137
+run_time: 454.813
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 11495.0
+norm_2: 38.412506103515625
+generations: 77
+run_time: 253.974
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 11695.0
+norm_2: 40.50066375732422
+generations: 77
+run_time: 255.302
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 11430.0
+norm_2: 39.52826690673828
+generations: 77
+run_time: 254.302
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 11800.0
+norm_2: 40.26700210571289
+generations: 77
+run_time: 253.286
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000140077.jpg
+-SUCCESS-
+norm_0: 13512.0
+norm_2: 42.07749938964844
+generations: 77
+run_time: 253.174
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 23217.0
+norm_2: 62.95294189453125
+generations: 130
+run_time: 419.867
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 15520.0
+norm_2: 51.5826416015625
+generations: 98
+run_time: 318.558
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 14910.0
+norm_2: 50.08235168457031
+generations: 90
+run_time: 294.226
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 14672.0
+norm_2: 49.1605224609375
+generations: 92
+run_time: 294.579
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000186746.jpg
+-SUCCESS-
+norm_0: 23104.0
+norm_2: 64.27320098876953
+generations: 130
+run_time: 412.384
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 108577.0
+norm_2: 135.21096801757812
+generations: 143
+run_time: 465.272
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 108055.0
+norm_2: 135.2990264892578
+generations: 145
+run_time: 471.927
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 107302.0
+norm_2: 134.85971069335938
+generations: 152
+run_time: 493.572
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 112259.0
+norm_2: 136.30789184570312
+generations: 142
+run_time: 461.19
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000483773.jpg
+-SUCCESS-
+norm_0: 116370.0
+norm_2: 139.7564697265625
+generations: 144
+run_time: 467.42
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 18.0
+norm_2: 1.7926405668258667
+generations: 8
+run_time: 32.984
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 31.0
+norm_2: 1.8600503206253052
+generations: 13
+run_time: 48.692
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 18.0
+norm_2: 1.66316819190979
+generations: 5
+run_time: 23.606
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 14.0
+norm_2: 1.7142579555511475
+generations: 2
+run_time: 14.195
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: coco-2017 - 000000204220.jpg
+-SUCCESS-
+norm_0: 41.0
+norm_2: 2.305419683456421
+generations: 15
+run_time: 54.576
+fitness: 0.0
+

@@ -1,0 +1,227 @@
+Log 136
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 16225.0
+norm_2: 41.17591094970703
+generations: 174
+run_time: 554.613
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 17585.0
+norm_2: 42.715248107910156
+generations: 173
+run_time: 549.35
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 9705.0
+norm_2: 33.113616943359375
+generations: 156
+run_time: 496.883
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 18857.0
+norm_2: 44.19270324707031
+generations: 197
+run_time: 625.075
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 001690.png
+-SUCCESS-
+norm_0: 13084.0
+norm_2: 36.84859085083008
+generations: 160
+run_time: 508.811
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 50800.0
+norm_2: 71.21570587158203
+generations: 305
+run_time: 998.781
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 49975.0
+norm_2: 71.42511749267578
+generations: 305
+run_time: 967.949
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 47898.0
+norm_2: 71.07247924804688
+generations: 308
+run_time: 1010.534
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 51065.0
+norm_2: 72.37886047363281
+generations: 319
+run_time: 1013.124
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 006109.png
+-SUCCESS-
+norm_0: 45432.0
+norm_2: 69.16920471191406
+generations: 304
+run_time: 975.208
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 4307.0
+norm_2: 20.543832778930664
+generations: 99
+run_time: 318.197
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 7231.0
+norm_2: 25.734249114990234
+generations: 133
+run_time: 425.7
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 6293.0
+norm_2: 23.89487075805664
+generations: 87
+run_time: 283.665
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 5509.0
+norm_2: 22.052967071533203
+generations: 136
+run_time: 437.446
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 000566.png
+-SUCCESS-
+norm_0: 4730.0
+norm_2: 21.87989616394043
+generations: 93
+run_time: 300.209
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 55482.0
+norm_2: 86.3353271484375
+generations: 184
+run_time: 588.435
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 55434.0
+norm_2: 85.18063354492188
+generations: 192
+run_time: 613.198
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 33159.0
+norm_2: 69.32492065429688
+generations: 147
+run_time: 472.301
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 72714.0
+norm_2: 97.4563980102539
+generations: 197
+run_time: 628.869
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 007442.png
+-SUCCESS-
+norm_0: 42192.0
+norm_2: 76.36540985107422
+generations: 160
+run_time: 512.635
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 69362.0
+norm_2: 108.18653106689453
+generations: 160
+run_time: 511.625
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 80759.0
+norm_2: 117.88562774658203
+generations: 163
+run_time: 522.129
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 75035.0
+norm_2: 113.68579864501953
+generations: 160
+run_time: 512.87
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 72184.0
+norm_2: 111.76998138427734
+generations: 171
+run_time: 547.382
+fitness: 0.0
+
+Attack: evo_too on DetrForObjectDetection
+Img: kitti - 003554.png
+-SUCCESS-
+norm_0: 60896.0
+norm_2: 104.25938415527344
+generations: 152
+run_time: 486.163
+fitness: 0.0
+

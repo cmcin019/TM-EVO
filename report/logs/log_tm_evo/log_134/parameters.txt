@@ -1,0 +1,10 @@
+N: 32
+G: 600
+p_mut: 0.012
+alpha: 1
+beta: 75
+delta: 0.4
+p_unmut: 0.3
+attack fitness weight: 0.1
+disparity fitness weight: 0.9
+distance fitness weight: 0.9
